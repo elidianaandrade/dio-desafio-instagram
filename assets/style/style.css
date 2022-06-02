@@ -48,10 +48,10 @@ main {
 
 .instagram-phone img {
     position: absolute;
-    margin: 0 0 0 3rem;
+    margin: 0 0 0 2.9rem;
     width: auto;
-    height: 34rem;
-    animation: slide 12s infinite linear;
+    height: 34.2rem;
+    animation: fade 12s infinite linear;
 }
 
 .instagram-phone #feed {
@@ -64,7 +64,7 @@ main {
     z-index: -2;
 }
 
-@keyframes slide {
+@keyframes fade {
     100% {
         opacity: 0;
     }
