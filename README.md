@@ -8,7 +8,7 @@
 # INSTAGRAM CLONE | Eli Cosmaker
 
 ## 📷 Sobre o projeto
-Reconstruindo a página de login do instagram. Desenvolvido para o desafio da [Digital Innovation One](https://www.dio.me/).
+Reconstruindo a página de login do instagram com o perfil do meu hobby de [cosmaker](https://www.instagram.com/elicosmaker/). Desenvolvido para o desafio da [Digital Innovation One](https://www.dio.me/).
 
 🔗 [**Ver projeto**](https://dio-desafio-instagram.netlify.app/)
 
