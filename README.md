@@ -14,3 +14,5 @@ Reconstruindo a página de login do instagram com o perfil do meu hobby de [cosm
 
 ## ⚙ Funcionalidades
 - [x] Animação fade nas imagens do smartphone.
+
+<br>
