@@ -1,18 +1,31 @@
-<div align="center">
+<div id="top" align="center">
   <a href="https://dio-desafio-instagram.netlify.app/">
-    <img alt="Instagran Eli Cosmaker" src="https://github.com/elidianaandrade/dio-desafio-instagram/blob/main/assets/img/instagram-elicosmaker-screen.png?raw=true">
+    <img alt="Instagram Eli Cosmaker" src="https://github.com/elidianaandrade/utilities/blob/main/templates/README/img/covers/dio-desafio-instagram.gif?raw=true">
   </a>
 </div>
 <br>
 
 # INSTAGRAM CLONE | Eli Cosmaker
 
-## 📷 Sobre o projeto
-Reconstruindo a página de login do instagram com o perfil do meu hobby de [cosmaker](https://www.instagram.com/elicosmaker/). Desenvolvido para o desafio da [Digital Innovation One](https://www.dio.me/).
+## 📷 About the project
+Recreating [Instagram](https://www.instagram.com/) login page. This project was developed for learning purposes in the course of the [Digital Innovation One](https://www.dio.me/).
 
-🔗 [**Ver projeto**](https://dio-desafio-instagram.netlify.app/)
+[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=netlify&logoColor=7520FF)](https://dio-desafio-instagram.netlify.app/)
 
-## ⚙ Funcionalidades
-- [x] Animação fade nas imagens do smartphone.
+## 💻 Technologies
+[![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=7520FF)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=7520FF)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-<br>
+## ⚙ Functionalities
+- [x] Fade animation on smartphone images.
+
+## 🔍 References
+- [Repository Gabriela Pinheiro](https://github.com/SpruceGabriela/instagram-dio).
+- [Digital Innovation One](https://www.dio.me/).
+- [Instagram](https://www.instagram.com/).
+
+<div align="right">
+  <a href="#top">
+    <img alt="Up" height="25" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/angle-up.svg">
+  </a>
+</div>
